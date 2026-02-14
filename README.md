@@ -13,7 +13,7 @@ Import the numpy module to use the built-in functions for calculation
 ### Step 2: 
 Prepare the lists from each linear equations and assign in np.array()
 ### Step 3:
-Using the functions lu(), lu_factor(), lu_solve() we can find the rank of the given matrix.
+Using the functions lu(), lu_factor(), lu_solve() we can find the Lu decomposition of the matrix.
 ### Step 4: 
 End the program
 
@@ -53,6 +53,8 @@ print(X)
 ## Output:
 (i)
 <img width="737" height="728" alt="Screenshot 2026-02-14 175053" src="https://github.com/user-attachments/assets/67bcb1af-a8ba-440f-bec9-bc9e9ecb0d4d" />
+
+
 (ii)
 <img width="593" height="565" alt="Screenshot 2026-02-14 175103" src="https://github.com/user-attachments/assets/b4aa31e6-bb5b-4c13-9bb6-ddf6dd0fa949" />
 
